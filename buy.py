@@ -1,0 +1,1 @@
+print('this place is for buy')
